@@ -1,0 +1,12 @@
+c:\users\leo_r\documents\visual studio 2015\Projects\ConversorNumerico\ConversorNumerico\bin\Debug\ConversorNumerico.exe.config
+C:\Users\leo_r\Documents\Visual Studio 2015\Projects\ConversorNumerico\ConversorNumerico\bin\Debug\ConversorNumerico.exe
+C:\Users\leo_r\Documents\Visual Studio 2015\Projects\ConversorNumerico\ConversorNumerico\bin\Debug\ConversorNumerico.pdb
+C:\Users\leo_r\Documents\Visual Studio 2015\Projects\ConversorNumerico\ConversorNumerico\obj\Debug\ConversorNumerico.csprojResolveAssemblyReference.cache
+C:\Users\leo_r\Documents\Visual Studio 2015\Projects\ConversorNumerico\ConversorNumerico\obj\Debug\ConversorNumerico.Form1.resources
+C:\Users\leo_r\Documents\Visual Studio 2015\Projects\ConversorNumerico\ConversorNumerico\obj\Debug\ConversorNumerico.Properties.Resources.resources
+C:\Users\leo_r\Documents\Visual Studio 2015\Projects\ConversorNumerico\ConversorNumerico\obj\Debug\ConversorNumerico.csproj.GenerateResource.Cache
+C:\Users\leo_r\Documents\Visual Studio 2015\Projects\ConversorNumerico\ConversorNumerico\obj\Debug\ConversorNumerico.exe
+C:\Users\leo_r\Documents\Visual Studio 2015\Projects\ConversorNumerico\ConversorNumerico\obj\Debug\ConversorNumerico.pdb
+C:\Users\leo_r\Documents\Visual Studio 2015\Projects\ConversorNumerico2Funcionando\ConversorNumerico\bin\Debug\ConversorNumerico.exe.config
+C:\Users\leo_r\Documents\Visual Studio 2015\Projects\ConversorNumerico2Funcionando\ConversorNumerico\obj\Debug\ConversorNumerico.exe
+C:\Users\leo_r\Documents\Visual Studio 2015\Projects\ConversorNumerico2Funcionando\ConversorNumerico\obj\Debug\ConversorNumerico.pdb
